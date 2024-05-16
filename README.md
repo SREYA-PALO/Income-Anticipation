@@ -1,1 +1,2 @@
 # Income-Anticipation
+Salary prediction using machine learning involves collecting relevant data on factors like education, experience, and location. After preprocessing and feature engineering, select a suitable algorithm and train it on a portion of the data. Evaluate the model's performance using metrics like mean absolute error or R-squared. Fine-tune the model by adjusting hyperparameters for optimal predictions. Finally, deploy the trained model to make predictions on new data, enabling individuals and organizations to estimate future incomes accurately.
